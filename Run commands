@@ -6,5 +6,5 @@ cd telegram_user
 
 ls
 
-python telegram_user
+python telegram.py
 
